@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Vives Map - Trouvez votre salle en 1 clic</title>
+		<title>Vives Map - Trouvez votre salle en 1 clic xD</title>
 		<link rel="icon" href="favicon.png" />
 		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
